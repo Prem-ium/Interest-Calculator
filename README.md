@@ -8,6 +8,6 @@ To convert a daily, weekly, monthly, or semi-annual compounding APY rate into an
 - APY Interest Rate
 - Frequency of Compounding Interest (Daily, Weekly, Monthly, etc.)
 - Total Balance
-- 
+
 # Example Output
 ![Example](https://github.com/sazncode/APY-Interest-Payment-Calculator/blob/master/example_run.jpg)
